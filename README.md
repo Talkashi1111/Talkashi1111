@@ -1,6 +1,8 @@
-### Hi there 👋
 
-<h1 align="center">Hey there Tal</h1>
+![Header](headers/github-header-image.png)
+
+
+
 <h3 align="center">A student in 42 school, passionate about coding, a professional pianist, living in Switzerland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talkashi1111&label=Profile%20views&color=0e75b6&style=flat" alt="talkashi1111" /> </p>
