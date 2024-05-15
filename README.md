@@ -1,11 +1,13 @@
-
-![Header](headers/github-header-image.png)
-
+<p align="center">
+	<img src="headers/github-header-image.png" alt="Header">
+</p>
 
 
 <h3 align="center">A student in 42 school, passionate about coding, a professional pianist, living in Switzerland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=talkashi1111&label=Profile%20views&color=0e75b6&style=flat" alt="talkashi1111" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=talkashi1111&label=Profile%20views&color=0e75b6&style=flat" alt="talkashi1111" /> </p>
+
+
 
 - 🌱 I’m currently learning **C++, C, python**
 
